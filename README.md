@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Posts on [My Blog](https://blog.kazapps.info/)
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takashimakazuki&layout=compact&show_icons=true" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=takashimakazuki&show_icons=ture" />
