@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Posts on [My Blog](https://blog.kazapps.info/)
+Posts on [My Blog](https://www.kaytaka.com/)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaytaka0&layout=compact&show_icons=true" />
